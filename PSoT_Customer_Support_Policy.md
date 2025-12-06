@@ -1,5 +1,5 @@
 # Plumbing Schools of Texas Customer Support Policy
-
+Effective Date: August 13th, 2025
 ## 1. Overview
 We are committed to providing a smooth and secure purchasing experience for all customers. All payments are processed safely through Stripe, ensuring your personal and financial information is protected.
 
@@ -21,4 +21,5 @@ If you believe there has been an error with your payment, please contact us befo
 Your payment details are never stored on our servers. All transactions are encrypted and processed securely through Stripe in compliance with industry standards.
 
 ## 7. Policy Updates
+
 We may update this policy from time to time. Any changes will be posted on our website and will take effect immediately unless otherwise stated.
