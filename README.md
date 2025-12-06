@@ -12,7 +12,7 @@ The documents below are the current, governing policies of PSoT. Click the links
 
 | Document Title | Description | Direct Public URL |
 | :--- | :--- | :--- |
-| **Terms of Reference** | Governing principles, scope, and responsibilities for PSoT programs. | [View Document](terms-of-reference.md) |
+| **Terms of Service** | Governing principles, scope, and responsibilities for PSoT programs. | [View Document](PSoT_Terms_of-Service_Policy (1).md) |
 | **Privacy Policy** | Details on how PSoT collects, uses, and protects student and customer data. | [View Document](privacy-policy.md) |
 | **Customer Support & Refund Policy** | Information regarding support channels, enrollment cancellations, and refund procedures. | [View Document](refund-policy.md) |
 
