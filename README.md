@@ -14,7 +14,7 @@ The documents below are the current, governing policies of PSoT. Click the links
 | :--- | :--- | :--- |
 | **Terms of Service** | August 13th, 2025 | [View Document](PSoT_Terms_of_Service_Policy.md) |
 | **Privacy Policy** | August 13th, 2025 | [View Document](PSoT_Privacy_Policy.md) |
-| **Customer Support & Refund Policy** | N/A | [View Document](PSoT_Customer_Support_Policy.md) |
+| **Customer Support & Refund Policy** | August 13th, 2025 | [View Document](PSoT_Customer_Support_Policy.md) |
 
 ---
 
