@@ -1,0 +1,31 @@
+# Plumbing Schools of Texas Terms of Service
+Effective Date: August 13th, 2025
+
+## 1. Introduction
+Welcome to Plumbing Schools of Texas LLC (“we,” “our,” “us”). These Terms of Service (“Terms”) govern your purchase of products or services from us through our website and payment processing via Stripe. By placing an order, you agree to these Terms. Please read them carefully before making a purchase.
+## 2. Eligibility
+You must be at least 18 years old or have the consent of a parent/guardian to make a purchase. By using our services, you confirm that you meet these requirements.
+## 3. Payment Processing
+We use Stripe to securely process payments. By completing a purchase, you agree to Stripe’s own terms and policies. We do not store your full payment information on our servers.
+## 4. Pricing & Taxes
+All prices are listed in USD and are subject to change without notice. Applicable taxes will be calculated at checkout.
+## 5. Orders & Confirmation
+Once your payment is successfully processed, you will receive an order confirmation via email. We reserve the right to cancel or refuse any order for reasons including suspected fraud, unauthorized transactions, or product/service unavailability.
+## 6. Refunds & Cancellations
+Refunds are handled in accordance with our Refund Policy within our Customer Support Policy. If eligible, refunds will be processed back to your original payment method via Stripe.
+## 7. Delivery of Goods/Services
+- Digital Products: Delivered via email or account access after payment confirmation.
+- Physical Products: Shipped to the address provided at checkout. Delivery times may vary.
+## 8. Customer Responsibilities
+You agree to provide accurate information during checkout and to use our products/services only for lawful purposes.
+## 9. Limitation of Liability
+To the fullest extent permitted by law, we are not liable for any indirect, incidental, or consequential damages arising from your purchase or use of our products/services.
+## 10. Changes to These Terms
+We may update these Terms from time to time. The latest version will always be posted on our website with the effective date.
+## 11. Contact Us
+If you have any questions about these Terms, please contact us at:
+mariao@plumbingschoolsoftexas.com
+Plumbing Schools of Texas, LLC
+2710 Bingle Road
+Houston, Texas
+77055-1135
